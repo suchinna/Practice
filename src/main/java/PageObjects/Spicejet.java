@@ -49,7 +49,10 @@ public class Spicejet {
 		
 	}
 	
-	
+	public void gittest(){
+	System.out.println("Git Testing");
+	System.out.println("Git Testing2");
+	}
 	
 
 }
