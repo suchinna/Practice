@@ -52,6 +52,11 @@ public class Spicejet {
 	public void gittest(){
 	System.out.println("Git Testing");
 	System.out.println("Git Testing2");
+	System.out.println("GitPract commited");
+	System.out.println("GitPract commited1");
+	System.out.println("GitPract commited2");
+	System.out.println("GitPract commited3");
+	
 	}
 	
 
